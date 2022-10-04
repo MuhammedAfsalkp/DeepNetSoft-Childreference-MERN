@@ -1,0 +1,17 @@
+.cat-list{
+    list-style: none;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-content: center;  
+}
+
+.sub{
+    cursor: pointer;
+    padding: 2rem;
+    text-align: center;
+}
+
+ul.sub:hover{
+    background: gainsboro;
+}
